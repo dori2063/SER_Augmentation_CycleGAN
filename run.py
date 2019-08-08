@@ -8,6 +8,7 @@ This is refered,
 https://github.com/eriklindernoren/Keras-GAN/blob/master/cyclegan/data_loader.py
 https://keraskorea.github.io/posts/2018-10-24-%EB%94%A5%EB%9F%AC%EB%8B%9D(CycleGAN)%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20Fornite%20%EB%A5%BC%20PUBG%20%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0/
 https://datamasters.co.kr/33  GPU
+https://github.com/eesungkim/Speech_Emotion_Recognition_AAE
 """
 
 from __future__ import print_function, division
